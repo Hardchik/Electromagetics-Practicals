@@ -1,1 +1,1 @@
-# Electromagetics-Practicals
+# Practicals for Electromagetics
